@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/homeservicefinal/homeservicefinal/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.1" />
+        <entry key="..\:/homeservicefinal/homeservicefinal/app/src/main/res/drawable/custom_button.xml" value="0.1" />
+        <entry key="..\:/homeservicefinal/homeservicefinal/app/src/main/res/drawable/custom_input.xml" value="0.12" />
+        <entry key="..\:/homeservicefinal/homeservicefinal/app/src/main/res/drawable/cutom_input1.xml" value="0.154" />
+        <entry key="..\:/homeservicefinal/homeservicefinal/app/src/main/res/drawable/ic_background.xml" value="0.1" />
+        <entry key="..\:/homeservicefinal/homeservicefinal/app/src/main/res/drawable/ic_baseline_record_voice_over_24.xml" value="0.1" />
+        <entry key="..\:/homeservicefinal/homeservicefinal/app/src/main/res/drawable/ic_ent.xml" value="0.1" />
+        <entry key="..\:/homeservicefinal/homeservicefinal/app/src/main/res/drawable/ic_launcher_background.xml" value="0.1855" />
+        <entry key="..\:/homeservicefinal/homeservicefinal/app/src/main/res/drawable/ic_resource_new.xml" value="0.183" />
+        <entry key="..\:/homeservicefinal/homeservicefinal/app/src/main/res/font/alfa_slab_one.xml" value="0.12777777777777777" />
+        <entry key="..\:/homeservicefinal/homeservicefinal/app/src/main/res/font/baloo_paaji.xml" value="0.19230769230769232" />
+        <entry key="..\:/homeservicefinal/homeservicefinal/app/src/main/res/layout/activity_adminlogin.xml" value="0.1" />
+        <entry key="..\:/homeservicefinal/homeservicefinal/app/src/main/res/layout/activity_adminmenu.xml" value="0.1675929884566054" />
+        <entry key="..\:/homeservicefinal/homeservicefinal/app/src/main/res/layout/activity_adminsignup.xml" value="0.16547066272688898" />
+        <entry key="..\:/homeservicefinal/homeservicefinal/app/src/main/res/layout/activity_electrician_page.xml" value="0.1" />
+        <entry key="..\:/homeservicefinal/homeservicefinal/app/src/main/res/layout/activity_electricianadddata.xml" value="0.1675929884566054" />
+        <entry key="..\:/homeservicefinal/homeservicefinal/app/src/main/res/layout/activity_login.xml" value="0.1" />
+        <entry key="..\:/homeservicefinal/homeservicefinal/app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/homeservicefinal/homeservicefinal/app/src/main/res/layout/activity_menu.xml" value="0.12" />
+        <entry key="..\:/homeservicefinal/homeservicefinal/app/src/main/res/layout/activity_plumber_page.xml" value="0.18" />
+        <entry key="..\:/homeservicefinal/homeservicefinal/app/src/main/res/layout/activity_plumberadddata.xml" value="0.2" />
+        <entry key="..\:/homeservicefinal/homeservicefinal/app/src/main/res/layout/activity_signup.xml" value="0.2" />
+        <entry key="..\:/homeservicefinal/homeservicefinal/app/src/main/res/layout/activity_technician_page.xml" value="0.1675929884566054" />
+        <entry key="..\:/homeservicefinal/homeservicefinal/app/src/main/res/layout/activity_technicianadddata.xml" value="0.1675929884566054" />
+        <entry key="..\:/homeservicefinal/homeservicefinal/app/src/main/res/layout/electriciandatas.xml" value="0.22" />
+        <entry key="..\:/homeservicefinal/homeservicefinal/app/src/main/res/layout/item.xml" value="0.14" />
+        <entry key="..\:/homeservicefinal/homeservicefinal/app/src/main/res/layout/plumberdatas.xml" value="0.18" />
+        <entry key="..\:/homeservicefinal/homeservicefinal/app/src/main/res/layout/techniciandatas.xml" value="0.18" />
+        <entry key="..\:/homeservicefinal/homeservicefinal/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.11" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

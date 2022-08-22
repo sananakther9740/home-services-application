@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1070081897714",
+    "project_id": "houseservicefinal",
+    "storage_bucket": "houseservicefinal.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1070081897714:android:fcfff1b780ca244fe20c6b",
+        "android_client_info": {
+          "package_name": "com.homeservices.homservicefinal"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1070081897714-rfjmkhjeeg0672ohtfvh11uan8h09g5p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB8wwuC9edjLaL5T8DXq0uqppFufiEWB5Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1070081897714-rfjmkhjeeg0672ohtfvh11uan8h09g5p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

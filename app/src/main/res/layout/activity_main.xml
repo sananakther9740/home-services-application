@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+android:backgroundTint="@color/darkblue"
+    android:background="@drawable/ic_ent"
+    tools:context=".MainActivity">
+
+    <TextView
+        android:id="@+id/textView"
+        android:layout_width="261dp"
+        android:layout_height="92dp"
+        android:fontFamily="@font/satisfy"
+        android:text="House Joy"
+        android:textColor="#000000"
+        android:textColorHighlight="#000000"
+        android:textColorHint="#000000"
+        android:textColorLink="#000000"
+        android:textSize="54sp"
+        android:textStyle="bold|italic"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.643"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.391"
+        tools:visibility="visible" />
+
+    <ImageView
+        android:id="@+id/imageView3"
+        android:layout_width="149dp"
+        android:layout_height="164dp"
+        android:layout_marginBottom="24dp"
+        android:rotation="-360"
+        android:rotationY="190"
+        app:layout_constraintBottom_toTopOf="@+id/textView"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.545"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.987"
+        app:srcCompat="@drawable/w1"
+        tools:visibility="visible" />
+
+    <TextView
+        android:id="@+id/textView2"
+        android:layout_width="299dp"
+        android:layout_height="58dp"
+        android:fontFamily="@font/playfair_display_sc"
+        android:shadowColor="#000000"
+        android:text="ONE-STOP DESTINATION"
+        android:textColor="#000000"
+        android:textColorHighlight="#19000000"
+        android:textColorLink="#020000"
+        android:textSize="22sp"
+        android:textStyle="bold"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.638"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/textView"
+        app:layout_constraintVertical_bias="0.074" />
+
+    <Button
+        android:id="@+id/adlogink"
+        android:layout_width="323dp"
+        android:layout_height="55dp"
+        android:background="@drawable/cutom_input1"
+        android:backgroundTint="#06283D"
+        android:fontFamily="@font/alfa_slab_one"
+        android:onClick="adminlogin"
+        android:text="Admin Login"
+        android:textSize="18dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.52"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.685"
+        app:strokeColor="#F14726" />
+
+    <Button
+        android:id="@+id/userlog"
+        android:layout_width="323dp"
+        android:layout_height="55dp"
+        android:background="@drawable/cutom_input1"
+        android:backgroundTint="#06283D"
+        android:fontFamily="@font/alfa_slab_one"
+        android:onClick="usersignup"
+        android:text="User Signup"
+        android:textSize="18dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.522"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.791"
+        app:strokeColor="#F14726" />
+
+</androidx.constraintlayout.widget.ConstraintLayout>
